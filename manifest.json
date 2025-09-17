@@ -5,7 +5,7 @@
   "description": "현재 상품 페이지의 상품명을 추출하여 다나와에서 검색합니다.",
   "permissions": ["activeTab", "scripting"],
   "action": {
-    "default_icon": "icon128.png",
+    "default_icon": "search2.png",
     "default_title": "최저가 검색기"
   },
   "background": {
