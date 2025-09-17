@@ -12,6 +12,6 @@
     "service_worker": "index.js"
   },
   "icons": {
-    "128": "icon128.png"
+    "128": "search2.png"
   }
 }
